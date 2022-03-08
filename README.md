@@ -5,13 +5,13 @@ Beginner in Programming, major Electronics Engineer in NCU.
 
 
 Learning Python, C++, Verilog, ML, NLP
-### <img src="https://user-images.githubusercontent.com/100607574/157188301-590e95f1-22f9-489d-b564-37521eb924b2.gif" width=50>  <ins>Contact Ways</ins>
+### <img src="https://user-images.githubusercontent.com/100607574/157188301-590e95f1-22f9-489d-b564-37521eb924b2.gif" width=75>  <ins>Contact Ways</ins>
 Gmail : augusthsuangwei@gmail.com
 
 
 Discord : Ame010#9187
 
-### <img src="https://user-images.githubusercontent.com/100607574/157188828-adf85d37-c237-4cd9-b19f-ce8e56fb2b71.gif" width=50>  <ins>Statistics</ins>
+### <img src="https://user-images.githubusercontent.com/100607574/157188828-adf85d37-c237-4cd9-b19f-ce8e56fb2b71.gif" width=75>  <ins>Statistics</ins>
 [![dOwOb1212's GitHub stats](https://github-readme-stats.vercel.app/api?username=dOwOb1212)](https://github.com/dOwOb1212/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dOwOb1212&langs_count=8)](https://github.com/dOwOb1212/github-readme-stats)
 <!--
