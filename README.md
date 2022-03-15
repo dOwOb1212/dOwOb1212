@@ -9,7 +9,7 @@ Learning Python, C++, Verilog, ML, NLP
 Gmail : augusthsuangwei@gmail.com
 
 
-Discord : Ame010#9187
+Discord : dOwOb1212#9187
 
 ### <img src="https://user-images.githubusercontent.com/100607574/157188828-adf85d37-c237-4cd9-b19f-ce8e56fb2b71.gif" width=75>  <ins>Statistics</ins>
 [![dOwOb1212's GitHub stats](https://github-readme-stats.vercel.app/api?username=dOwOb1212)](https://github.com/dOwOb1212/github-readme-stats)
